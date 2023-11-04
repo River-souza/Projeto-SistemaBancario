@@ -2,9 +2,9 @@
   "name": "Projeto-SistemaBancario",
   "version": "1.0.0",
   "description": "O projeto utiliza...",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "dev": " nodemon ./src/index.js"
+    "dev": " nodemon ./src/app.js"
   },
   "keywords": [],
   "author": "",

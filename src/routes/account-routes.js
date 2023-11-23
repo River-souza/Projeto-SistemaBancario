@@ -4,7 +4,6 @@ const middleware = require('../middlewares/accounts-middleware');
 
 const routes = express.Router();
 
-//endpoints
 routes.get('/contas', middleware.bankAuthentication, contas.listarContas);//Exige autenticação no banco
 routes.get('/contas/:numero_conta', middleware.validatorNumConta, contas.obterConta);
 routes.post('/contas', contas.criarConta);

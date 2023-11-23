@@ -1,18 +1,26 @@
 {
-  "name": "Projeto-SistemaBancario",
+  "name": "desafio-backend-modulo-02-sistema-bancario-b2b-ifood-t11",
   "version": "1.0.0",
-  "description": "O projeto utiliza...",
-  "main": "app.js",
+  "description": "![](https://i.imgur.com/xG74tOh.png)",
+  "main": "index.js",
   "scripts": {
-    "dev": " nodemon ./src/app.js"
+    "dev": " nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/River-souza/desafio-backend-modulo-02-sistema-bancario-b2b-ifood-t11.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.18.2"
+  "bugs": {
+    "url": "https://github.com/River-souza/desafio-backend-modulo-02-sistema-bancario-b2b-ifood-t11/issues"
   },
+  "homepage": "https://github.com/River-souza/desafio-backend-modulo-02-sistema-bancario-b2b-ifood-t11#readme",
   "devDependencies": {
     "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
   }
 }

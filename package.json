@@ -1,22 +1,21 @@
 {
-  "name": "desafio-backend-modulo-02-sistema-bancario-b2b-ifood-t11",
+  "name": "Projeto-SistemaBancario",
   "version": "1.0.0",
-  "description": "![](https://i.imgur.com/xG74tOh.png)",
   "main": "index.js",
   "scripts": {
     "dev": " nodemon ./src/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/River-souza/desafio-backend-modulo-02-sistema-bancario-b2b-ifood-t11.git"
+    "url": "git+https://github.com/River-souza/Projeto-SistemaBancario.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Micahel D. A. Santos",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/River-souza/desafio-backend-modulo-02-sistema-bancario-b2b-ifood-t11/issues"
+    "url": "https://github.com/River-souza/Projeto-SistemaBancario/issues"
   },
-  "homepage": "https://github.com/River-souza/desafio-backend-modulo-02-sistema-bancario-b2b-ifood-t11#readme",
+  "homepage": "https://github.com/River-souza/Projeto-SistemaBancario#readme",
   "devDependencies": {
     "nodemon": "^3.0.1"
   },

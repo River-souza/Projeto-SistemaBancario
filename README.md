@@ -1,6 +1,6 @@
 ## Name do Projeto : Sistema Banccario
-## Created on : 04/11/2023.
-## Author     : Michael D. A. Santos
+##### Created on : 04/11/2023.
+##### Author     : Michael D. A. Santos
 
 
 ## Descrição do projeto
@@ -34,6 +34,6 @@ Seu papel é construir uma RESTful API que permita:
 
 ## Como rodar
 
-Clone o projeto;
-Execute o comando npm i;
-Execute o comando npm run dev.
+-   Clone o projeto;
+-   Execute o comando npm i;
+-   Execute o comando npm run dev.
